@@ -1,4 +1,4 @@
-# Tingle's Basic x64 Stack Overflower
+# Tingle's Basic x64 Stack Overflow
 
 ## You have one goal:
 #### Print the flag without modifying the server.
@@ -192,7 +192,7 @@ at which we are going to return.
 
 You can see that we are about to return to the print_win function instead of main, where we were called from.
 
-Runt the Go command ```g``` or press the ```Go``` button in the top left to continue execution.
+Run the Go command ```g``` or press the ```Go``` button in the top left to continue execution.
 
 Pull up the console for our server and...
 
