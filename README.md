@@ -165,7 +165,7 @@ We can run Tingle_01.exe in WinDbg and set a bp on the ```vuln``` function by ru
 
 <details>
 
-![Set Bp](/resources/SetBp.PNG)
+![Set Bp](/resources/SetBP.PNG)
 
 </details>
 
